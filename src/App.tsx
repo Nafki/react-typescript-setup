@@ -5,6 +5,7 @@ import HomeIndex from './Component/HomeIndex';
 function App() {
   return (
     <div className="App">
+      
       <HomeIndex />
     </div>
   );
